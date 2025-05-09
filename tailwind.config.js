@@ -1,6 +1,6 @@
 const config = {
   darkMode: ['class'],
-  content: ['./src/client/**/*.{ts,tsx, js, jsx, mdx}'],
+  content: ['./src/client/index.html', './src/client/**/*.{jsx,tsx}'],
   prefix: '',
   theme: {
     container: {
